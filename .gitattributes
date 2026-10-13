@@ -1,0 +1,6 @@
+* text=auto
+*.csv -diff
+*.docx binary
+*.pdf binary
+*.png binary
+*.zip binary

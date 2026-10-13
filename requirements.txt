@@ -1,0 +1,5 @@
+# Installs everything needed for both apps and the tests
+streamlit>=1.35
+pandas>=2.0
+matplotlib>=3.7
+reportlab>=4.0
